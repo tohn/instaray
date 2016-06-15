@@ -12,7 +12,7 @@ function(s)).
 ## Setup
 
 InstaRay™ has one dependency: [imagemagick][]. Please install it
-before proceding.
+before proceeding.
 
 Then just download `instaray.sh`, chmod™ it (`chmod +x instaray.sh`)
 and run it with the parameters described in the next section.
